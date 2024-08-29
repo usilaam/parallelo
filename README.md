@@ -1,0 +1,2 @@
+# parallelo
+desenvolvimento do site 
